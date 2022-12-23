@@ -127,3 +127,40 @@ public class Main {
 	sc.close();
 	}
 }
+/*
+-----------------------------------------------------
+
+
+	CHOOSE ONE OF THE FOLLOWING....
+
+	1.BOOK 			2.MAGAZINE
+
+	3.TOTAL SALE AMOUNT	4.REVENUE OF PUBLICATION
+
+
+Choice::-----------------------------------------------------
+1
+
+		MENU   FOR   BOOK
+	1.read book 		2.display 
+	3.sale copies 		4.order copies
+	Choice::1
+==============================================================================
+
+		-----------------------------------------------------
+		Enter title : Wings-of-Fire
+		Enter price:  450
+		Enter copies: 2
+		-----------------------------------------------------
+-----------------------------------------------------
+enter author book: Abdul-kalam
+-----------------------------------------------------
+==============================================================================
+
+Do you want to continue with book section[1/0]
+	1.YES 		0.NO
+	Choice::0
+DO YOU WANT TO CONTINUE WITH PUBLICATION???
+	1.CONTINUE 	0.TERMINATE
+0
+*/
